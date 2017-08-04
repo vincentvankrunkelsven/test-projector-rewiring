@@ -6,12 +6,8 @@ attachments :
 
 
 
-
---- type:VideoExercise lang:python xp:50 skills:2 key:ca8be5fdfe
-## Time to test the projector app
-
-*** =projector_key
-01e86891b56c19042c05ae0ba0c8eab2
+--- type:VideoExercise lang:python xp:50 skills:2 key:3afe4a3bcf
+## Testing a new projector vid
 
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:1b0c3a5fbf
 ## A really bad movie
