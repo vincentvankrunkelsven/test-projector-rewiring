@@ -5,13 +5,6 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 
-
---- type:VideoExercise lang:python xp:50 skills:2 key:554b64e628
-## Testing the new Projector
-
-*** =projector_key
-a35c4da315470f240b666bef2da924d2
-
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:1b0c3a5fbf
 ## A really bad movie
 
