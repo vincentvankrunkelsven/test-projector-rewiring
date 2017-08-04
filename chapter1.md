@@ -9,6 +9,9 @@ attachments :
 --- type:VideoExercise lang:python xp:50 skills:2 key:3afe4a3bcf
 ## Testing a new projector vid
 
+*** =projector_key
+55e0b82c6d44ca3c6980f555eeef439e
+
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:1b0c3a5fbf
 ## A really bad movie
 
