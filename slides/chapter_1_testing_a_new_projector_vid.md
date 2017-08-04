@@ -17,7 +17,7 @@ title: Instructor
 ## Testing
 
 *** =part1
-Col 1.
+Col 1
 
 *** =part2
 Col 2
