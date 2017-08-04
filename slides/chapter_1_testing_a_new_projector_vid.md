@@ -12,3 +12,15 @@ title: Instructor
 
 *** =script
 
+
+--- type:TwoColumns key:f66cad1508
+## Testing
+
+*** =part1
+Col 1
+
+*** =part2
+Col 2
+
+*** =script
+
